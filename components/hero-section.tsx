@@ -57,7 +57,7 @@ export default function HeroSection() {
                 transition={{ delay: 0.4 }}
                 className="text-lg md:text-xl text-primary font-medium"
               >
-                Assistant Professor | Cyber Security Researcher
+                Assistant Professor | Cyber Security Researcher123
               </motion.p>
 
               <motion.p
