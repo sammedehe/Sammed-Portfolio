@@ -138,7 +138,7 @@ export default function HeroSection() {
               
               {/* Image container */}
               <div className="relative glass-card p-2 rounded-2xl">
-                <div className="relative w-82 h-72 md:w-80 md:h-80 lg:w-85 lg:h-100 rounded-xl overflow-hidden">
+                <div className="relative w-82 h-92 md:w-80 md:h-80 lg:w-85 lg:h-100 rounded-xl overflow-hidden">
                   <img src="/placeholder-user.jpg" alt="Profile Picture" className="w-full h-full object-cover rounded-xl" />
                   {/* Overlay gradient */}
                   <div className="absolute inset-0 bg-gradient-to-t from-background/80 via-transparent to-transparent" />
